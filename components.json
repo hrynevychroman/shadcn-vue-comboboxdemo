@@ -1,0 +1,13 @@
+{
+  "aliases": {
+    "components": "@/components",
+    "utils": "@/utils"
+  },
+  "style": "new-york",
+  "tailwind": {
+    "baseColor": "zinc",
+    "config": "tailwind.config.js",
+    "css": "src/assets/index.css",
+    "cssVariables": true
+  }
+}

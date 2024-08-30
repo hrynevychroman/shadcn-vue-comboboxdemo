@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@radix-icons/vue": "latest",
+    "@radix-ui/colors": "latest",
+    "@unovis/ts": "latest",
+    "@unovis/vue": "latest",
+    "class-variance-authority": "latest",
+    "clsx": "latest",
+    "radix-vue": "latest",
+    "shadcn-vue": "latest",
+    "tailwind-merge": "latest",
+    "tailwindcss-animate": "latest",
+    "typescript": "latest",
+    "vaul-vue": "latest",
+    "vue": "latest",
+    "vue-sonner": "latest"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "latest",
+    "autoprefixer": "latest",
+    "tailwindcss": "latest",
+    "vite": "latest",
+    "vue-tsc": "latest"
+  },
+  "name": "shadcn-vue-comboboxdemo",
+  "scripts": {
+    "start": "shadcn-vue add button command popover -y && vite"
+  }
+}
